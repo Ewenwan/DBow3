@@ -8,6 +8,9 @@ DBoW3
 
 [参考](https://mp.weixin.qq.com/s?src=3&timestamp=1545540125&ver=1&signature=USHtmG3pgxspV9d1ZmPFzppKBbY66pgxByyAmRMgOC9Gyn-tXeY2u6lHuK6NzDnnZnMoWkx-7PomYB8eK8*Z2RxZO1V0wIm7DO*X*K2s8WFG7OUoPFLQWLnErf0jByJABA9mKz43dvx2DwLxC50zA2SehnQHo9mRTOyfEOZIawg=)
 
+
+[微信公众号文章搜索 泡泡机器人专栏](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E3%80%90%E6%B3%A1%E6%B3%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8E%9F%E5%88%9B%E4%B8%93%E6%A0%8F%E3%80%91&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=1539&sst0=1545540282097&lkt=1%2C1545540281993%2C1545540281993)
+
       DBoW3是DBoW2的增强版，这是一个开源的C++库，用于给图像特征排序，并将图像转化成视觉词袋表示。
       它采用层级树状结构将相近的图像特征在物理存储上聚集在一起，创建一个视觉词典。
       DBoW3还生成一个图像数据库，带有顺序索引和逆序索引，可以使图像特征的检索和对比非常快。
